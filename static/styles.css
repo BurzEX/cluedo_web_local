@@ -1,0 +1,20 @@
+table {
+    background-color: #230f91;
+}
+
+body {
+    background-color: gray;
+}
+
+tr, td, input {
+    /* background-color: #230f91; */
+    border-width: 0px;
+}
+
+.names, input {
+    width: 90px;
+}
+
+input {
+    background-color: cornsilk;
+}
